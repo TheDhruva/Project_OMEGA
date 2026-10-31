@@ -1,0 +1,6 @@
+{
+  "name": "FieldBook Contractor OS",
+  "description": "Comprehensive contractor business management platform for waterproofing, heatproofing, and construction operations. Tracks projects, receivables, labor attendance, and material supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
